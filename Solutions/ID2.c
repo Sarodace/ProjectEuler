@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
-  // Define variables
+  // Declare & define variables
   int num1 = 1;
   int num2 = 2;
   int sum = 0;
